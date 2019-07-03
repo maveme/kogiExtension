@@ -1,0 +1,16 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | INFO] Serving notebooks from local directory: /Users/mauricio/Documents/ResearchProjects/blocklyExtension/blockly
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=89c90ea5023c074f8e0868d816493886d0c663e87ddcaafd
+[LabApp | INFO]  or http://127.0.0.1:8888/?token=89c90ea5023c074f8e0868d816493886d0c663e87ddcaafd
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | INFO] Welcome to Project Jupyter! Explore the various tools available and their corresponding documentation. If you are interested in contributing to the platform, please visit the communityresources section at https://jupyter.org/community.html.
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/mauricio/Library/Jupyter/runtime/nbserver-13162-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=89c90ea5023c074f8e0868d816493886d0c663e87ddcaafd
+     or http://127.0.0.1:8888/?token=89c90ea5023c074f8e0868d816493886d0c663e87ddcaafd
+[LabApp | WARNING] Failed to fetch package metadata for 'kogi': URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)'))
