@@ -14,3 +14,192 @@
         http://localhost:8888/?token=89c90ea5023c074f8e0868d816493886d0c663e87ddcaafd
      or http://127.0.0.1:8888/?token=89c90ea5023c074f8e0868d816493886d0c663e87ddcaafd
 [LabApp | WARNING] Failed to fetch package metadata for 'kogi': URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)'))
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236211 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236211 (::1) 4.53ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236383 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236383 (::1) 3.36ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236421 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236421 (::1) 1.72ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236447 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236447 (::1) 2.09ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236460 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236460 (::1) 1.37ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236469 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236469 (::1) 1.33ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236478 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236478 (::1) 1.17ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236514 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236514 (::1) 1.21ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236530 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236530 (::1) 1.12ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236543 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236543 (::1) 1.10ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236555 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236555 (::1) 1.20ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236574 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236574 (::1) 1.14ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236586 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236586 (::1) 1.35ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236614 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236614 (::1) 1.17ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236622 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236622 (::1) 1.05ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236632 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236632 (::1) 1.13ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236640 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236640 (::1) 1.26ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236664 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236664 (::1) 1.93ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236685 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236685 (::1) 1.50ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236698 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236698 (::1) 2.21ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236723 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236723 (::1) 1.65ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236735 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236735 (::1) 2.90ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236752 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236752 (::1) 6.05ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236779 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236779 (::1) 2.02ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236793 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236793 (::1) 1.40ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236803 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236803 (::1) 1.47ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236813 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236813 (::1) 1.36ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236828 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236828 (::1) 1.16ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236837 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236837 (::1) 1.17ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236846 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236846 (::1) 1.45ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236854 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236854 (::1) 1.44ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236868 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236868 (::1) 1.09ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236880 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236880 (::1) 1.36ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236889 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236889 (::1) 1.45ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236899 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236899 (::1) 1.47ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236917 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236917 (::1) 1.48ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236929 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236929 (::1) 1.67ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236940 (::1): No such file or directory: 
+[LabApp | WARNING] No such file or directory: 
+[LabApp | WARNING] 404 GET /api/contents/?content=1&1562191236940 (::1) 1.90ms referer=http://localhost:8888/lab/workspaces/auto-s
+[LabApp | INFO] interrupted
+[LabApp | CRITICAL] Shutdown confirmed
+[LabApp | INFO] Shutting down 0 kernels
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | INFO] Serving notebooks from local directory: /Users/mauricio/Documents/ResearchProjects/blocklyExtension/kogiExtension
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=3ac0de351969e8bb1fbdf2aaf5e0a46a03b8e2750d968ddb
+[LabApp | INFO]  or http://127.0.0.1:8888/?token=3ac0de351969e8bb1fbdf2aaf5e0a46a03b8e2750d968ddb
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | INFO] Welcome to Project Jupyter! Explore the various tools available and their corresponding documentation. If you are interested in contributing to the platform, please visit the communityresources section at https://jupyter.org/community.html.
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/mauricio/Library/Jupyter/runtime/nbserver-51085-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=3ac0de351969e8bb1fbdf2aaf5e0a46a03b8e2750d968ddb
+     or http://127.0.0.1:8888/?token=3ac0de351969e8bb1fbdf2aaf5e0a46a03b8e2750d968ddb
+[LabApp | WARNING] Failed to fetch package metadata for 'kogi': URLError(OSError(51, 'Network is unreachable'))
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | INFO] Serving notebooks from local directory: /Users/mauricio/Documents/ResearchProjects/blocklyExtension/kogiExtension
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8889/?token=24823acc254afcf706d41d975ef283aeedbe4d4438cf36e9
+[LabApp | INFO]  or http://127.0.0.1:8889/?token=24823acc254afcf706d41d975ef283aeedbe4d4438cf36e9
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | INFO] Welcome to Project Jupyter! Explore the various tools available and their corresponding documentation. If you are interested in contributing to the platform, please visit the communityresources section at https://jupyter.org/community.html.
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/mauricio/Library/Jupyter/runtime/nbserver-98971-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=24823acc254afcf706d41d975ef283aeedbe4d4438cf36e9
+     or http://127.0.0.1:8889/?token=24823acc254afcf706d41d975ef283aeedbe4d4438cf36e9
+[LabApp | INFO] interrupted
+[LabApp | CRITICAL] Shutdown confirmed
+[LabApp | INFO] Shutting down 0 kernels
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | INFO] Serving notebooks from local directory: /Users/mauricio/Documents/ResearchProjects/blocklyExtension/kogiExtension
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8889/?token=3298ec159d687cc697121bd4bdbf08b534a3389aa844846c
+[LabApp | INFO]  or http://127.0.0.1:8889/?token=3298ec159d687cc697121bd4bdbf08b534a3389aa844846c
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | INFO] Welcome to Project Jupyter! Explore the various tools available and their corresponding documentation. If you are interested in contributing to the platform, please visit the communityresources section at https://jupyter.org/community.html.
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/mauricio/Library/Jupyter/runtime/nbserver-99008-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=3298ec159d687cc697121bd4bdbf08b534a3389aa844846c
+     or http://127.0.0.1:8889/?token=3298ec159d687cc697121bd4bdbf08b534a3389aa844846c
+[LabApp | WARNING] Failed to fetch package metadata for 'kogi': URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)'))
+[LabApp | WARNING] Build recommended
+[LabApp | WARNING] kogi content changed
+[LabApp | INFO] Building jupyterlab assets
+[LabApp | INFO] interrupted
+[LabApp | CRITICAL] Shutdown confirmed
+[LabApp | INFO] Shutting down 0 kernels
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | INFO] Serving notebooks from local directory: /Users/mauricio/Documents/ResearchProjects/blocklyExtension/kogiExtension
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=a5ed891ad517b779170fa1df94877c1c9116259987c2d794
+[LabApp | INFO]  or http://127.0.0.1:8888/?token=a5ed891ad517b779170fa1df94877c1c9116259987c2d794
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | INFO] Welcome to Project Jupyter! Explore the various tools available and their corresponding documentation. If you are interested in contributing to the platform, please visit the communityresources section at https://jupyter.org/community.html.
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/mauricio/Library/Jupyter/runtime/nbserver-99255-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a5ed891ad517b779170fa1df94877c1c9116259987c2d794
+     or http://127.0.0.1:8888/?token=a5ed891ad517b779170fa1df94877c1c9116259987c2d794
+[LabApp | WARNING] Failed to fetch package metadata for 'kogi': URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)'))
